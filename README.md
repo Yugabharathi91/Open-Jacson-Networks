@@ -1,6 +1,6 @@
 
-# Name : Praveen Raj G
-# Reg no : 212224040245
+# Name : YUGABHARATHI M
+# Reg no : 212224230314
 
 # Series Queues with infinite capacity - Open Jackson Network
 
